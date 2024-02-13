@@ -3,7 +3,7 @@
 import { BulbIcon } from "./icons/BulbIcon";
 
 export const Contacts = () => {
-  const data = [
+  /* const data = [
     {
       id: 1,
       name: "Lt.col(Rtd) Louis Ntabshwa",
@@ -75,7 +75,8 @@ export const Contacts = () => {
       name: "Kimon Hars",
       role: "Directorate | The Gym Software Training Program",
     },
-  ];
+  ]; */
+
   return (
     <>
       <div className="border text-white  rounded-lg border-[rgb(47,49,62)] px-2 py-10 sm:p-10">
