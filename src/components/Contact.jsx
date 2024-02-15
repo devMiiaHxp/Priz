@@ -120,7 +120,7 @@ export const Contacts = () => {
               </div>
             </div>
           </div>
-          <div className="col-span-5 flex flex-col   sm:grid grid-cols-2 gap-2">
+          {/* <div className="col-span-5 flex flex-col   sm:grid grid-cols-2 gap-2">
             {data.map((item) => (
               <>
                 <div
@@ -141,7 +141,7 @@ export const Contacts = () => {
                 </div>
               </>
             ))}
-          </div>
+          </div> */}
         </div>
       </div>
     </>
